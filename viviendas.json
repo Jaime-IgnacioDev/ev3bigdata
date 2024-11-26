@@ -1,0 +1,82 @@
+[
+    {
+        "precio": "15.759",
+        "ubicacion": "Cam. Villarrica - Pucón 20, Camino a Villarrica, Pucón, La Araucanía",
+        "dormitorios": "4 a 4",
+        "banos": "3 a 3",
+        "superficie": "137 m² a 139 m²",
+        "estacionamiento": "180"
+    },
+    {
+        "precio": "12.200",
+        "ubicacion": "Av. Jose Rabat 11005, Colina, Chile, Chicureo, Colina, RM (Metropolitana)",
+        "dormitorios": "3 a 3",
+        "banos": "3 a 3",
+        "superficie": "124.62 m² a 144.35 m²",
+        "estacionamiento": "Cuarto trimestre 2025"
+    },
+    {
+        "precio": "6.368",
+        "ubicacion": "Dr. Roberto Del Río Esquina Eliodoro Yáñez, Las Lilas, Providencia, RM (Metropolitana)",
+        "dormitorios": "1 a 3",
+        "banos": "1 a 2",
+        "superficie": "49.45 m² a 93.99 m²",
+        "estacionamiento": "467"
+    },
+    {
+        "precio": "2.699",
+        "ubicacion": "Alonso De Ercilla 7698, Vicente Valdés, La Florida, RM (Metropolitana)",
+        "dormitorios": "1 a 3",
+        "banos": "1 a 2",
+        "superficie": "32 m² a 75 m²",
+        "estacionamiento": "400"
+    },
+    {
+        "precio": "2.699",
+        "ubicacion": "Alonso De Ercilla 7698, Vicente Valdés, La Florida, RM (Metropolitana)",
+        "dormitorios": "1 a 3",
+        "banos": "1 a 2",
+        "superficie": "32 m² a 75 m²",
+        "estacionamiento": "400"
+    },
+    {
+        "precio": "8.854",
+        "ubicacion": "Carretera General San Martín Km 16,5 Con Av. Rukán, Chicureo, Colina, RM (Metropolitana)",
+        "dormitorios": "3 a 3",
+        "banos": "3 a 3",
+        "superficie": "129.92 m² a 139.97 m²",
+        "estacionamiento": "Inmediata"
+    },
+    {
+        "precio": "2.840",
+        "ubicacion": "Monseñor Carlos Casanueva 3130, Campus San Joaquín, Macul, RM (Metropolitana)",
+        "dormitorios": "1 a 3",
+        "banos": "1 a 2",
+        "superficie": "35.24 m² a 72.99 m²",
+        "estacionamiento": "350"
+    },
+    {
+        "precio": "12.200",
+        "ubicacion": "Av. Jose Rabat 11005, Colina, Chile, Chicureo, Colina, RM (Metropolitana)",
+        "dormitorios": "3 a 3",
+        "banos": "3 a 3",
+        "superficie": "124.62 m² a 144.35 m²",
+        "estacionamiento": "Cuarto trimestre 2025"
+    },
+    {
+        "precio": "6.368",
+        "ubicacion": "Dr. Roberto Del Río Esquina Eliodoro Yáñez, Las Lilas, Providencia, RM (Metropolitana)",
+        "dormitorios": "1 a 3",
+        "banos": "1 a 2",
+        "superficie": "49.45 m² a 93.99 m²",
+        "estacionamiento": "467"
+    },
+    {
+        "precio": "13.990",
+        "ubicacion": "El Arcángel 4710, Pío XI, Vitacura, RM (Metropolitana)",
+        "dormitorios": "2 a 3",
+        "banos": "2 a 3",
+        "superficie": "98.2 m² a 151 m²",
+        "estacionamiento": "450"
+    }
+]
